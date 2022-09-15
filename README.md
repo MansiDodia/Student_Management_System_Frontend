@@ -1,1 +1,2 @@
-﻿# StudentMgmtSystem_Frontend
+﻿# Student Management System Frontend 
+ Using React Js
